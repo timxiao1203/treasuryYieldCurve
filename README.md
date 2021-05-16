@@ -33,6 +33,7 @@ CAD_Treasury	2020-11-25	6/1/2030  	0.0071914
 CAD_Treasury	2020-11-25	6/1/2041  	0.0113203
 CAD_Treasury	2020-11-25	12/1/2051 	0.0127914
 
-
-You can find more details at
+References:
 https://finpricing.com/lib/FiTreasuryYieldCurve.html
+
+https://bitbucket.org/cmrm11/irtreasuryyieldcurve/downloads/FiTreasuryYieldCurve-12.pdf
